@@ -1,0 +1,16 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+table {
+    width: 20%; 
+    border-spacing: 1px; 
+    background-color: burlywood;
+    margin: auto;
+}
+   td, th {
+    background: rgb(242, 222, 196); 
+    padding: 5px;
+    text-align: center;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    font-weight:bold;
+   }

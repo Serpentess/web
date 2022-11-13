@@ -1,0 +1,14 @@
+body{
+    font-family: 'Gill Sans', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color:lightgoldenrodyellow;
+    margin: auto;
+}
+ol{
+    list-style-type: upper-roman;
+    text-decoration: underline;
+
+}
+ul{
+    list-style-type: square;
+    font-weight: bold;
+}
